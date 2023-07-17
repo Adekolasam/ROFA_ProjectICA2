@@ -1,0 +1,8 @@
+Card PAN: 123456789
+Card Expiry Date: 01/27
+Card Holder: TEST HOLDER
+Card CVV: 123
+
+
+Id Number: 1, Item: Chair, Price: 6500.0, Total Price: 6500.0
+Id Number: 2, Item: Desk, Price: 12168.5, Total Price: 12168.5
